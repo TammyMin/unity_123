@@ -18,6 +18,11 @@ public class test : MonoBehaviour {
     void onstart()
     {
         Debug.Log("onstart");
+	    Debug.Log("onstart");
+	    Debug.Log("onstart");
+	    Debug.Log("onstart");
+	    Debug.Log("onstart");
+	    Debug.Log("onstart");
     }
 	// Update is called once per frame
 	void Update () {
