@@ -11,6 +11,9 @@ public class test : MonoBehaviour {
 		Debug.Log("start");
 		Debug.Log("start");
 		Debug.Log("start");
+		Debug.Log("start");
+		Debug.Log("start");
+		Debug.Log("start");
 	}
     void onstart()
     {
