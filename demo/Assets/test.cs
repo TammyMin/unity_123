@@ -7,6 +7,10 @@ public class test : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         Debug.Log("start");
+		Debug.Log("start");
+		Debug.Log("start");
+		Debug.Log("start");
+		Debug.Log("start");
 	}
     void onstart()
     {
